@@ -141,7 +141,11 @@ A more detailed tutorial on how to use docker-replay can be found [here](https:/
 Restore the volume with a tarball archive.
 `docker run --rm --volumes-from <container> -v $(pwd):/backup busybox sh -c "cd <container-path> && tar xvf /backup/backup.tar --strip 1"`
 
+## Running containers
+
+Its better to convey parameters to containers using [dockerfiles](dockerfile.md). Docker builds images automatically by reading the instructions from a Dockerfile.
 ## Troubleshooting
+
 
 ### Networking
 
