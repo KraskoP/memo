@@ -1,10 +1,11 @@
 # OSI Layers
 
 The best way to memorize all the layers in OSI is to memorize mnemonic:
-1. Please Do Not Throw Sausage Pizza Away.
+1. **P**lease **D**o **N**ot **T**hrow **S**ausage **P**izza **A**way.
 2. **A**ll **P**eople **S**eem **t**o **N**eed **D**ata **P**rocessing.
 
-To jest obrazek 1 ![to jest opis](osi.png)
+To jest obrazek 1 ![to jest opis](resources/osi-model-7-layers-1.png)
+
 
 
 ### Physical
@@ -26,7 +27,7 @@ The second layer of the OSI model concerns data transmission between the nodes w
 - The Logical Link Control (LLC) sublayer is responsible for [flow controls](https://en.wikipedia.org/wiki/Flow_control_(data)) and [error controls](https://en.wikipedia.org/wiki/Error_control) that ensure error-free and accurate data transmission between the network nodes.
 - The Media Access Control (MAC) sublayer is responsible for managing access and permissions to transmit data between the network nodes. The data is transmitted sequentially and the layer expects acknowledgement for the encapsulated raw data sent between the nodes.
 
-### Network
+### Network layer
 
 The third layer of the OSI model organizes and transmits data between multiple networks.
 
