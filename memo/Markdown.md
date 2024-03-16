@@ -52,6 +52,13 @@ And the next line.
 - First item
 - Second item
 - Third item
+```   
+
+#### Definition Lists
+```markdown
+This is a definition list
+: definition 1
+: definition 2
 ```
 
 ### Icons
@@ -121,3 +128,47 @@ To check the task replace the space between the bracket with "x".
 ## Reference
 
 Link: [markdown guide](https://www.markdownguide.org/cheat-sheet)
+Link: [online markdown editor](https://dillinger.io/)
+Link: [ascii diagrams](https://asciiflow.com/#/) or [this one](https://textik.com/#c3c7fe723e321e4b)
+Link: [ASCII art](https://safeimagekit.com/text-to-ascii)
+
+### How to put ASCII art into Markdown
+Using [page asciiflow.com](asciiflow.com/#) you can download your project.
+If you export drawing you should choose:
+ASCII standard:
+- ASCII basic
+- ASCII extended
+Types of signs at the beginning of line or project. For MD files choose:
+- backticks multiline
+- four spaces
+### Examples
+
+backticks:
+```
+    Obsidian                                                                     
+                                                                                 
+ ┌───┐    ┌───┐                                                                  
+ │   ├────┤   │                                                                  
+ └─┬─┘    └─┬─┘         _____  ___    _                           _         _    
+   │        │          (  _  )(  _`\ (_)                         ( )       (_ )  
+┌──▼────────▼───┐      | ( ) || (_(_)| |     ___ ___     _      _| |   __   | |  
+│               │      | | | |`\__ \ | |   /' _ ` _ `\ /'_`\  /'_` | /'__`\ | |  
+│   Example 1   │      | (_) |( )_) || |   | ( ) ( ) |( (_) )( (_| |(  ___/ | |  
+└───────────────┘      (_____)`\____)(_)   (_) (_) (_)`\___/'`\__,_)`\____)(___) 
+                                                                                 
+                                                                                 
+```
+
+fourspaces:
+        Obsidian                                                                     
+                                                                                     
+     ┌───┐    ┌───┐                                                                  
+     │   ├────┤   │                                                                  
+     └─┬─┘    └─┬─┘         _____  ___    _                           _         _    
+       │        │          (  _  )(  _`\ (_)                         ( )       (_ )  
+    ┌──▼────────▼───┐      | ( ) || (_(_)| |     ___ ___     _      _| |   __   | |  
+    │               │      | | | |`\__ \ | |   /' _ ` _ `\ /'_`\  /'_` | /'__`\ | |  
+    │   Example 1   │      | (_) |( )_) || |   | ( ) ( ) |( (_) )( (_| |(  ___/ | |  
+    └───────────────┘      (_____)`\____)(_)   (_) (_) (_)`\___/'`\__,_)`\____)(___) 
+                                                                                     
+                                                                                     
