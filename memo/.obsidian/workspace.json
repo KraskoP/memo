@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/OSI Layers.md",
+                "file": "CCNA/CISCO Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "673d849376e2f112",
+            "id": "d0bec212c7837854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/VLAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7276f03c65ecf9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/CISCO Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f52993819007e470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/Spanning tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99dc71b5e5954d58",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown.md",
+                "file": "CCNA/Spanning tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown.md",
+                "file": "CCNA/Spanning tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown.md"
+                "file": "CCNA/Spanning tree.md"
               }
             }
           },
@@ -181,41 +217,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "673d849376e2f112",
+  "active": "f52993819007e470",
   "lastOpenFiles": [
+    "CCNA/VLAN.md",
+    "CCNA/Spanning tree.md",
+    "CCNA/resources/DTP1.png",
+    "CCNA/resources/DTP1.png.crdownload",
+    "CCNA/resources/subnetting-cheat-sheet.pdf",
+    "CCNA/resources/subnetting-cheat-sheet.pdf.crdownload",
+    "CCNA/VLAN Demo.md",
     "CCNA/CISCO Commands.md",
+    "Markdown.md",
+    "CCNA/TCP UDP.md",
+    "CCNA/resources/VLAN_basic_lab.png",
     "CCNA/OSI Layers.md",
+    "CCNA/resources/Ethernet_Type_II_Frame_format.png",
+    "CCNA/resources/1280px-Ethernet_802.1Q_Insert.svg (1).png",
+    "CCNA/resources/1280px-Ethernet_802.1Q_Insert.svg (1).png.crdownload",
+    "CCNA/resources/800px-Ethernet_802.1Q_Insert.svg.png",
+    "CCNA/resources/800px-Ethernet_802.1Q_Insert.svg.png.crdownload",
+    "CCNA/resources/802.1q_frame_format.png",
+    "CCNA/resources/1280px-Ethernet_802.1Q_Insert.svg.png",
+    "CCNA/resources/1280px-Ethernet_802.1Q_Insert.svg.png.crdownload",
+    "Untitled 1.canvas",
+    "CCNA/Subnetting.md",
+    "CCNA/IPv4 Address Format.md",
     "CCNA/Duplex and mismatch demo.md",
     "CCNA/Cabling and packet flows.md",
-    "Markdown.md",
-    "Untitled 1.canvas",
+    "CCNA/resources/1024px-MAC-48_Address.png",
+    "CCNA/resources/1024px-MAC-48_Address.svg",
+    "CCNA/resources/Ethernet_Type_II_Frame_format.svg",
+    "CCNA/resources/Unconfirmed 113265.crdownload",
+    "www.wireshark.org/tools/oui.lookup.md",
+    "CCNA/resources/1024px-MAC-48_Address.svg.png.crdownload",
+    "www.wireshark.org/tools",
+    "www.wireshark.org",
     "Untitled.canvas",
-    "CCNA/IPv4 Address Format.md",
     "apps/Bind9.md",
     "docker/docker.md",
-    "CCNA/Subnetting.md",
     "().md",
-    "CCNA/resources/osi-model-7-layers-1.png",
     "CCNA/Binary, decimal, hexadecimal.md",
-    "Subnetting",
-    "CCNA/resources/Kowalski.jpg",
-    "CCNA/Kowalski.jpg",
-    "CCNA/Signature_2.jpg",
-    "CCNA/resources/osi.png",
-    "CCNA/resources/osi-model-7-layers-1 - Copy.png",
     "resources.md",
     "docker-desktop.md",
-    "CCNA/resources/osi-model-7-layers-1.png.crdownload",
-    "CCNA/resources",
-    "CCNA",
     "docker/docker-compose.md",
     "docker/dockerfile.md",
     "apps/nginx.md",
-    "apps",
     "Welcome.md",
-    "docker",
     "test/Untitled.md",
-    "test/Untitled 1.md",
-    "misc"
+    "test/Untitled 1.md"
   ]
 }

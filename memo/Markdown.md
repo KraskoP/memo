@@ -4,7 +4,10 @@ Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you 
 
 Documentation: [Markdown Docs](https://daringfireball.net/projects/markdown/)
 RFC: [RFC 7763](https://www.rfc-editor.org/rfc/rfc7763)
+
+GitHub Documentation: [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 GitHub Documentation: [Writing Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github)
+
 
 ---
 ## Cheat-Sheet

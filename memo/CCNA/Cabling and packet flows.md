@@ -18,11 +18,14 @@ baseband - allow only one signal in a wire at a given time
 : T twisted pair
 
 ## MAC Address 
-Media Acccess Control
+Media Access Control
 24 bits OUI- Organizational Identifier
 24 bits Station Address
 
-On the webpage [www.wireshark.org/tools/oui.lookup](www.wireshark.org/tools/oui.lookup) is a tool do decipher MAC
+On the webpage [www.wireshark.org/tools/oui.lookup](https://www.wireshark.org/tools/oui-lookup.html) is a tool do decipher MAC
+![[1024px-MAC-48_Address.svg.png]]
+
+
 ### Structure  
 It consists from 6 bytes -> 3 bytes OUI and 3 bytes NIC (Network Interface Controller Specific) Station Address 
 First byte is most significant: 
