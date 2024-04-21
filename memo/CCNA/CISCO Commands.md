@@ -2,6 +2,8 @@
 # Introduction to Cisco Commands
 ## Command Modes
 
+The fabulous source of Cisco commands: [page](https://notes.networklessons.com/)
+
 Commands from: [https://www.netwrix.com/cisco_commands_cheat_sheet.html](https://www.netwrix.com/cisco_commands_cheat_sheet.html)
 
 
@@ -72,23 +74,23 @@ This example is from CCNA Course:
  
 ### Basic Configuration Command List
 
-|   |   |
-|---|---|
-|**reload**|Reboots the Cisco switch or router|
-|**hostname** _name_|Sets a host name to the current Cisco network device|
-|**copy** _from-location to-location_|Copies files from one file location to another|
-|**copy running-config startup-config**|Replaces the startup config with the active config when  the Cisco network device initializes|
-|**copy startup-config running-config**|Merges the startup config with the currently active config in RAM|
-|**write erase**   <br>**erase startup-config**|Deletes the startup config|
-|**ip address** _ip-address mask_|Assigns the specified IP address and subnet mask|
-|**shutdown**  <br>**no shutdown**|Shuts the interface down (shutdown) or brings it up (no shutdown)|
-|**ip default-gateway** _ip_address_|Sets the default gateway on the Cisco device|
-|**show running-config**|Displays the current configuration of the device|
-|**show startup-config**|Displays the saved configuration stored in the device's NVRAM, which will be loaded when the device starts up|
-|**description** _string_|Assigns the specified description to an interface|
-|**show running-config interface** _interface slot/number_|Displays the running configuration for the specified interface|
-|**show ip interface** _[type number]_|Displays the status of a network interface as well as a detailed listing of its IP configurations and related characteristics.|
-|**ip name-server** _serverip-1 serverip-2_|Sets the IP address of or more DNS servers that the device can use to resolve hostnames to IP addresses.|
+|                                                           |                                                                                                                                |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **reload**                                                | Reboots the Cisco switch or router                                                                                             |
+| **hostname** _name_                                       | Sets a host name to the current Cisco network device                                                                           |
+| **copy** _from-location to-location_                      | Copies files from one file location to another                                                                                 |
+| **copy running-config startup-config**                    | Replaces the startup config with the active config when  the Cisco network device initializes                                  |
+| **copy startup-config running-config**                    | Merges the startup config with the currently active config in RAM                                                              |
+| **write erase**   <br>**erase startup-config**            | Deletes the startup config                                                                                                     |
+| **ip address** _ip-address mask_                          | Assigns the specified IP address and subnet mask                                                                               |
+| **shutdown**  <br>**no shutdown**                         | Shuts the interface down (shutdown) or brings it up (no shutdown)                                                              |
+| **ip default-gateway** _ip_address_                       | Sets the default gateway on the Cisco device                                                                                   |
+| **show running-config**                                   | Displays the current configuration of the device                                                                               |
+| **show startup-config**                                   | Displays the saved configuration stored in the device's NVRAM, which will be loaded when the device starts up                  |
+| **description** _string_                                  | Assigns the specified description to an interface                                                                              |
+| **show running-config interface** _interface slot/number_ | Displays the running configuration for the specified interface                                                                 |
+| **show ip interface** _[type number]_                     | Displays the status of a network interface as well as a detailed listing of its IP configurations and related characteristics. |
+| **ip name-server** _serverip-1 serverip-2_                | Sets the IP address of or more DNS servers that the device can use to resolve hostnames to IP addresses.                       |
 
 ### Troubleshooting Cisco Commands List
 |   |   |
